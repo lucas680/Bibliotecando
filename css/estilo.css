@@ -1,0 +1,534 @@
+
+.espacos{
+		padding: 20px;
+		background: #303030;		
+}
+
+.espacos_login{
+		padding: 30px;
+		background: white;	
+}
+
+.espacos_agendar{
+		padding: 30px;
+		background: black;	
+}
+
+.espacos_login2{
+		padding: 30px;
+		background-image: url("../img/bibli1.jpg");		
+}
+
+.texto1{
+				font-size: 40px;
+}
+
+.p_cad_liv{
+	font-family: helvetica;
+	color: white;
+  font-size: 60px;
+  text-align: center;
+  padding: 50px 0 0 0;				
+}
+
+.arquivo{
+		background-color: white;
+		border: solid 0px;		
+    border-bottom-width: thin;
+    border-bottom-color: rgba(0,0, 0,0.4);
+    border-bottom-style: inset;
+    border-radius: 0px;
+}
+
+.brand-logo{
+		 font-family: fantasy;
+}
+
+.botaorelatorio{
+    margin: 5% 0 10% 0;
+}
+
+
+
+/* pesquisar */
+
+
+.pesqEfrase{
+				background-image: url("../img/cafe.jpg");
+				background-size: cover;
+				
+}
+
+
+#divBusca1{
+ /* background-color:#2F4F4F;*/
+  border:solid 1px; 
+  border-radius: 10px;
+  width:300px;
+}
+
+#txtBusca1{
+  float:left;
+  background-color:transparent;
+  padding-left:5px;
+  font-style:italic;
+  font-size:18px;
+  border:none;
+  height:32px;
+  width:260px;  
+    
+}
+
+#btnBusca{
+				padding: 5px 5px 0 0;
+				outline: 0;
+}
+
+
+/* solicitar livro */
+
+
+.categoria p{
+				font-family: fantasy;
+				font-size: 20px;
+				text-align: center;
+		/*		background-color: #4e9c8f;*/
+				color: rgba(255, 255, 255, 0.8);
+				padding: 5% 5%;
+}
+
+.espacospesq{
+				padding: 20px 5px 5px 5px;
+	/*	background: #4e9c8f;	*/	
+}
+
+
+.tudoPlivro{
+				
+}
+
+.Plivroimg{
+			border-bottom: 2px solid rgba(0,0,0, 0.5);
+}
+
+.Plivroautor h5{
+       font-family: Serif, Times New;
+			 font-size: 30px;
+				padding: 5% 0 0 5%;
+}
+
+.Plivroautor p{
+       font-family: Serif, Times New;
+			 font-size: 20px;
+				padding: 5% 5% 0 5%;
+}
+
+.Plivrogenero h5{
+       font-family: Serif, Times New;
+			 font-size: 30px;
+				padding: 5% 0 0 5%;
+}
+
+.Plivrogenero p{
+       font-family: Serif, Times New;
+			 font-size: 20px;
+				padding: 5% 5% 0 5%;
+}
+
+.Plivrodescricao h5{
+       font-family: Serif, Times New;
+			 font-size: 30px;
+				padding: 5% 0 0 5%;
+}
+
+.Plivrodescricao p{
+       font-family: Serif, Times New;
+			 font-size: 20px;
+				padding: 5% 5% 50% 5%;
+}
+
+.Plivrotitulo{
+			font-family: Cursive, Lucida;
+			font-size: 45px;
+			padding: 20% 5% 0 5%;
+}
+
+.Plivrobotao{
+			padding: 0 50% 0 5%;	
+}
+
+.Plivrobotao a{
+		text-decoration: none;		
+}
+
+.Plivrohr{
+			margin: 10% 5% 0 5%;	
+}
+
+.Plivrodescricao{
+				
+}
+
+
+
+
+
+/* sobre */
+
+.sobre{
+			text-align: center;
+			color: white;
+			padding: 5% 10%;
+			font-family: Fantasy;
+			background-image: url("../img/livros3.jpg");
+			background-position: center;
+			
+}
+
+.sobre h2{
+		 font-size: 40px;
+		 padding: 0 0 50px 0;
+		 margin: 50px 0 0 0;
+}
+
+.sobre p{
+		 font-size: 20px;
+		 padding: 0 0 30px 0;		
+}
+
+/* cadastro de livros */
+
+.cad-livro1{
+		 background-image: url("../img/livros3.jpg");
+		 background-position: center;
+		 padding: 0 30px 50px 30px;
+		 font-family: Fantasy;
+		 
+}
+
+.cad-livro2{
+			background-color: black;
+			font-family: helvetica;
+}
+
+
+/* menu */
+
+.nav-wrapper a{
+			text-decoration: none;
+}
+
+.nav-wrapper{
+				background-color: #4e9c8f;
+}
+
+.nav-wrapper ul{
+			background-color: #4e9c8f;
+}
+
+.nav-wrapper ul a{
+			font-size: 20px;
+}
+
+.icon-usu{
+			padding: 5% 0 0 5%;
+}
+
+.li_atual{
+				background-color: #43857a;
+}
+
+.formpedido{
+    
+    text-align: center;
+    
+}
+
+/* bem vindo */
+
+.bem-vindo{       
+ background-image: url("../img/estante5.jpg");
+ background-position: center;
+ background-color: #cccccc;
+ text-align: center;
+} 
+
+.bem-vindo div p{
+	font-family: Fantasy;
+	color: white;
+  font-size: 40px;
+  text-align: center;
+  padding: 50px 0 0 0;
+}
+
+.bem-vindo p{
+	font-family: Fantasy;
+	color: white;
+  font-size: 20px;
+  text-align: center;	
+}
+
+/* seleções em destaque */
+
+.selecoes{
+	background-color: #303030;
+	text-align: center;
+}
+
+.selecoes div p{
+	font-family: Fantasy;
+	color: white;
+  font-size: 30px;
+  text-align: center;
+  padding: 50px 0 0 0;		
+}
+
+.selecoes p{
+	font-family: Fantasy;
+	color: white;
+  font-size: 15px;
+  text-align: center;
+  padding: 0 5px 0 5px;
+}
+
+.selecoes a{
+	font-family: Fantasy;
+  font-size: 15px;
+  text-align: left;
+  color: white;
+  text-decoration: none;
+  padding: 0 0 0 10px;
+}
+
+.selecoes section{
+    padding-bottom: 5%;
+}
+
+.selecoes a:hover{
+	font-family: Fantasy;
+  font-size: 15px;
+  text-align: left;
+  color: #ffcaaa;
+  text-decoration: none;
+  padding: 0 0 0 10px;
+}
+
+/* seleção rosa */
+
+.selecoes2{
+	background: #ffdfd5;
+	text-align: center;
+}
+
+.selecoes2 div p{
+	font-family: Fantasy;
+	color: black;
+  font-size: 30px;
+  text-align: center;
+  padding: 50px 0 0 0;
+}
+
+.selecoes2 p{
+	font-family: Fantasy;
+	color: black;
+  font-size: 15px;
+  text-align: center;
+  padding: 0 5px 0 5px;
+}
+
+.selecoes2 a{
+	font-family: Fantasy;
+  font-size: 15px;
+  text-align: left;
+  color: black;
+  text-decoration: none;
+  padding: 0 0 0 10px;
+}
+
+.selecoes2 section{
+    padding-bottom: 5%;
+}
+
+.selecoes2 a:hover{
+	font-family: Fantasy;
+  font-size: 15px;
+  text-align: left;
+  color: #ffcaaa;
+  text-decoration: none;
+  padding: 0 0 0 10px;
+}
+
+/* seção horário */
+
+.horarios{
+  background-image: url("../img/livros3.jpg");
+  background-color: #303030;	
+}
+
+.horarios div p{
+	font-family: Fantasy;
+	color: white;
+  font-size: 30px;
+  text-align: center;
+  padding: 100px 0 0 0;		
+}
+
+.horarios p{
+	font-family: Fantasy;
+	color: white;
+  font-size: 15px;
+  text-align: center;
+  padding: 0 5px 70px 5px;
+}
+
+/* cadastro.php */
+
+.cad{
+				font-style: helvetica;
+				font-size: 60px;				
+				color: white;
+}
+
+
+.espacos-cad{
+			padding: 20px;
+			background-image: url("../img/estante2.jpg");
+}
+
+.espacos-cad2{
+			padding: 20px;
+			background-color: white;
+			opacity: 0.9;
+}
+
+
+/* doar livro */
+
+.Label1{
+			color: black;	
+			font-family: helvetica;
+			font-size: 14px;
+			opacity: 0.5;	
+}
+
+
+/* solicitar livro */
+
+.botaoSL{
+      width: 200px;
+			heigth: 100%;
+}
+
+
+/* livros em destaque */
+
+.LDtudo{
+				margin: 0 0 10% 0;
+}
+
+
+.LivroT{
+			border:1.5px solid;
+			border-color: rgba(0,0,0,0.2);
+			margin: 20% 5%;
+}
+
+
+.LivroT2 hr{
+			opacity: 0.4;
+			
+}
+
+.Ltitulo{
+		 font-family: Fantasy;
+		 font-style: Oblique;
+		 font-size: 25px;
+		 padding: 10% 0 0 0 ;
+}
+
+.Lautor{
+		font-family: Fantasy;
+		font-size: 15px;
+		padding: 10% 0;		
+}
+
+.Lbotao{
+				padding: 0 0 20px 0;
+				color: #ffdfd5;
+}
+
+.Lbotao a{
+			text-decoration: none;
+}
+
+
+/* lista de usuários */
+
+.Lusu{
+
+		padding: 50px;
+
+}
+
+
+/* site usuário */
+
+.selecao{
+        border-radius: 5%;
+}
+
+
+/* carousel */
+
+.carosel_img1{
+			background-image: url("../img/bibli2.jpg");	
+}
+
+.carosel_img2{
+			background-image: url("../img/estante2.jpg");	
+}
+
+.carosel_img3{
+			background-image: url("../img/livros3.jpg");	
+}
+
+.carosel_img4{
+			background-image: url("../img/livros1.jpg");	
+}
+
+
+/* cadastro -> sampos com cor diferente */
+
+.selectcad{
+    
+    color: rgba(0, 0, 0, 0.6);
+	/*	border: solid 0px;		
+    border-bottom-width: thin;
+    border-bottom-color: rgba(255,255, 254,0.6);
+    border-bottom-style: inset;
+    border-radius: 0px; */
+}
+
+
+/* lista de usuários */
+
+
+.icon_usu{
+				text-align: center;
+}
+
+
+/* rodapé */
+
+.lirodape li{
+				padding: 5% 0;
+}
+
+.lirodape li img{
+    width: 35px;
+}
+
+.rodape p{
+				text-align: justify;
+}
+
